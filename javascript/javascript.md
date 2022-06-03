@@ -14,6 +14,7 @@
 - [Estruturas condicionais](#link9)
 - [Funções e suas particularidades](#link10)
 - [Tipos de função](#link11)
+- [Operadores](#link12)
 
 
 <div id='link1'/>
@@ -824,5 +825,65 @@ Para este exercício vamos utilizar alguns métodos nativos do JavaScript:
 - Prompt() – para registrar entradas de usuário;
 - Alert() – para mostrar mensagem ao usuário;
 - Template Strings – para usar strings junto com expressões;
+
+[Voltar ao Menu](#menu)
+
+---
+
+<div id='link12'/>
+
+## Operadores
+
+**Tipos de Operadores**
+
+- Operadores de atribuição
+
+| Operador | Exemplo | Equivalente a |
+|----------|---------|---------------|
+| = | x = y | x = y |
+| +=| x += y |x = x + y|
+|*=| x *= y| x = x * y|
+|/=|x /= y| x = x / y|
+|%=|x %= y| x = x % y |
+
+- Operadores de Aritmética
+
+|Operador|Descrição|
+|--------|---------|
+|+ | Adição|
+|- | Subtração|
+|*| Multiplicação|
+|**|Exponencial|
+|/|Divisão|
+|%|Módulo|
+|++|Incrementar|
+|--|Decrementar|
+
+- Operadores de Comparação
+
+|Operador|Descrição|
+|----------|---------|
+|==|Igual a|
+|===|Mesmo valor mesmo tipo|
+|!=|Diferente|
+|!==|Valores e tipos diferentes|
+|>|Maior que|
+|<|Menor que|
+|>=|Maior ou igual|
+|<=|Menor ou igual|
+
+- Operadores de Lógica
+
+|Operador|Descrição|
+|--------|---------|
+|&&|``e´´ lógico|
+| 2pipes |``ou ´´ lógico|
+|!| ``não lógico´´|
+
+
+
+
+
+
 
 [Voltar ao Menu](#menu)
